@@ -2,5 +2,6 @@
     "cSpell.ignoreWords": [
         "pyperclip",
         "zophie"
-    ]
+    ],
+    "code-runner.runInTerminal": true
 }
